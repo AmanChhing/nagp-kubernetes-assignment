@@ -102,17 +102,7 @@ http://localhost/api/products
 Expected response shape:
 
 ```json
-{
-  "items": [
-    {
-      "id": 1,
-      "name": "Laptop Stand",
-      "category": "Accessories",
-      "price": "1299.00",
-      "stock": 22
-    }
-  ]
-}
+{"items":[{"id":1,"name":"Laptop Stand","category":"Accessories","price":"1299.00","stock":22},{"id":2,"name":"Wireless Mouse","category":"Accessories","price":"799.00","stock":40},{"id":3,"name":"Mechanical Keyboard","category":"Accessories","price":"3499.00","stock":15},{"id":4,"name":"USB-C Hub","category":"Accessories","price":"2499.00","stock":18},{"id":5,"name":"Noise Cancelling Headphones","category":"Audio","price":"6999.00","stock":9},{"id":6,"name":"Webcam 1080p","category":"Camera","price":"2199.00","stock":13},{"id":7,"name":"Portable SSD 1TB","category":"Storage","price":"7899.00","stock":11},{"id":8,"name":"27 Inch Monitor","category":"Display","price":"15999.00","stock":7},{"id":199,"name":"Persistence Check Item again","category":"Demo 1","price":"199.00","stock":2}]}
 ```
 
 ## Show All Objects
