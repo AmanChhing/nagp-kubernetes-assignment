@@ -8,7 +8,8 @@ https://github.com/AmanChhing/nagp-kubernetes-assignment
 ## Docker Hub Image
 
 ```text
-docker.io/amanching7/nagp-products-api:1.0.0
+docker pull amanching7/nagp-products-api:1.0.0
+
 ```
 
 ## Docker Hub URL
