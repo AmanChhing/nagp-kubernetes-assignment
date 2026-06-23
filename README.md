@@ -33,7 +33,8 @@ http://localhost/api/products
 Screen recording video showing all the objects deployed in Kubernetes cluster:
 
 ```text
-https://nagarro-my.sharepoint.com/:v:/p/aman_kumar12/IQCs5XaO6x1MSLdzPcznpPvvAXnkjQ16zf7BTdTLYenCLrg
+[https://nagarro-my.sharepoint.com/:v:/p/aman_kumar12/IQCs5XaO6x1MSLdzPcznpPvvAXnkjQ16zf7BTdTLYenCLrg
+](https://nagarro-my.sharepoint.com/:v:/p/aman_kumar12/IQB_il87XDNTQqoHUmuIfelhAVXw2l3ZB3N9QNcSwmdhJ4s?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=md9Z5p)
 
 ```
 
